@@ -1,0 +1,16 @@
+places=["london","new york",'japan','egypt','moscow']
+print(f"Original list : {places}")
+
+print(f"Original list in alphabetical order : {sorted(places)}")
+print(f"Original list in reverse alphabetical order : {sorted(places,reverse=True)}")
+print(f"Original list : {places}")
+print("\n\n")
+places.reverse()
+print(f"Original list in reverse order : {places}")
+places.reverse()
+print(f"Original list in original order : {places}")
+places.sort()
+print(f"\n\n using the sort() method {places}")
+places.sort(reverse=True)
+print(f"\n\n using the sort(reverse=True) method {places}")
+print(f"lenth of the list is {len(places)}")
