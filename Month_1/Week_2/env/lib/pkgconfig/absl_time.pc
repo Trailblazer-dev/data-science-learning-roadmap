@@ -1,0 +1,12 @@
+prefix=/home/mwaki/Documents/Vscode/data-science-learning-roadmap/Month_1/Week_2/env
+exec_prefix=${prefix}
+libdir=/home/mwaki/Documents/Vscode/data-science-learning-roadmap/Month_1/Week_2/env/lib
+includedir=/home/mwaki/Documents/Vscode/data-science-learning-roadmap/Month_1/Week_2/env/include
+
+Name: absl_time
+Description: Abseil time library
+URL: https://abseil.io/
+Version: 20250127
+Requires: absl_base = 20250127, absl_civil_time = 20250127, absl_core_headers = 20250127, absl_int128 = 20250127, absl_raw_logging_internal = 20250127, absl_strings = 20250127, absl_time_zone = 20250127
+Libs: -L${libdir}  -labsl_time 
+Cflags: -I${includedir} -DNOMINMAX

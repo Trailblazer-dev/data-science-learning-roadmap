@@ -1,0 +1,14 @@
+prefix=/home/mwaki/Documents/Vscode/data-science-learning-roadmap/Month_1/Week_2/env
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: libecpg_compat
+Description: PostgreSQL libecpg_compat library
+URL: https://www.postgresql.org/
+Version: 17.4
+Requires: 
+Requires.private: libecpg, libpgtypes
+Cflags: -I${includedir}
+Libs: -L${libdir} -lecpg_compat
+Libs.private: -L/home/mwaki/Documents/Vscode/data-science-learning-roadmap/Month_1/Week_2/env/lib -lecpg -lpgcommon -lpgport -lpq -lm

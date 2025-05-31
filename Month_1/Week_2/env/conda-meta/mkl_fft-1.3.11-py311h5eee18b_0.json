@@ -1,0 +1,318 @@
+{
+  "build": "py311h5eee18b_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "libgcc-ng >=11.2.0",
+    "python >=3.11,<3.12.0a0",
+    "blas 1.0 mkl",
+    "mkl-service >=2.3.0,<3.0a0",
+    "mkl >=2023.1.0,<2024.0a0",
+    "numpy >=1.16"
+  ],
+  "extracted_package_dir": "/home/mwaki/miniconda3/pkgs/mkl_fft-1.3.11-py311h5eee18b_0",
+  "files": [
+    "lib/python3.11/site-packages/mkl_fft-1.3.11.dist-info/INSTALLER",
+    "lib/python3.11/site-packages/mkl_fft-1.3.11.dist-info/LICENSE.txt",
+    "lib/python3.11/site-packages/mkl_fft-1.3.11.dist-info/METADATA",
+    "lib/python3.11/site-packages/mkl_fft-1.3.11.dist-info/RECORD",
+    "lib/python3.11/site-packages/mkl_fft-1.3.11.dist-info/REQUESTED",
+    "lib/python3.11/site-packages/mkl_fft-1.3.11.dist-info/WHEEL",
+    "lib/python3.11/site-packages/mkl_fft-1.3.11.dist-info/direct_url.json",
+    "lib/python3.11/site-packages/mkl_fft-1.3.11.dist-info/top_level.txt",
+    "lib/python3.11/site-packages/mkl_fft/__init__.py",
+    "lib/python3.11/site-packages/mkl_fft/__pycache__/__init__.cpython-311.pyc",
+    "lib/python3.11/site-packages/mkl_fft/__pycache__/_float_utils.cpython-311.pyc",
+    "lib/python3.11/site-packages/mkl_fft/__pycache__/_numpy_fft.cpython-311.pyc",
+    "lib/python3.11/site-packages/mkl_fft/__pycache__/_scipy_fft.cpython-311.pyc",
+    "lib/python3.11/site-packages/mkl_fft/__pycache__/_scipy_fft_backend.cpython-311.pyc",
+    "lib/python3.11/site-packages/mkl_fft/__pycache__/_version.cpython-311.pyc",
+    "lib/python3.11/site-packages/mkl_fft/_float_utils.py",
+    "lib/python3.11/site-packages/mkl_fft/_numpy_fft.py",
+    "lib/python3.11/site-packages/mkl_fft/_pydfti.cpython-311-x86_64-linux-gnu.so",
+    "lib/python3.11/site-packages/mkl_fft/_pydfti.pyx",
+    "lib/python3.11/site-packages/mkl_fft/_scipy_fft.py",
+    "lib/python3.11/site-packages/mkl_fft/_scipy_fft_backend.py",
+    "lib/python3.11/site-packages/mkl_fft/_version.py",
+    "lib/python3.11/site-packages/mkl_fft/interfaces/__init__.py",
+    "lib/python3.11/site-packages/mkl_fft/interfaces/__pycache__/__init__.cpython-311.pyc",
+    "lib/python3.11/site-packages/mkl_fft/interfaces/__pycache__/numpy_fft.cpython-311.pyc",
+    "lib/python3.11/site-packages/mkl_fft/interfaces/__pycache__/scipy_fft.cpython-311.pyc",
+    "lib/python3.11/site-packages/mkl_fft/interfaces/numpy_fft.py",
+    "lib/python3.11/site-packages/mkl_fft/interfaces/scipy_fft.py",
+    "lib/python3.11/site-packages/mkl_fft/src/mklfft.c",
+    "lib/python3.11/site-packages/mkl_fft/tests/__pycache__/test_fft1d.cpython-311.pyc",
+    "lib/python3.11/site-packages/mkl_fft/tests/__pycache__/test_fftnd.cpython-311.pyc",
+    "lib/python3.11/site-packages/mkl_fft/tests/__pycache__/test_interfaces.cpython-311.pyc",
+    "lib/python3.11/site-packages/mkl_fft/tests/test_fft1d.py",
+    "lib/python3.11/site-packages/mkl_fft/tests/test_fftnd.py",
+    "lib/python3.11/site-packages/mkl_fft/tests/test_interfaces.py"
+  ],
+  "fn": "mkl_fft-1.3.11-py311h5eee18b_0.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "/home/mwaki/miniconda3/pkgs/mkl_fft-1.3.11-py311h5eee18b_0",
+    "type": 1
+  },
+  "md5": "3d3108468f811ee4a73a809f35d59cdd",
+  "name": "mkl_fft",
+  "package_tarball_full_path": "/home/mwaki/miniconda3/pkgs/mkl_fft-1.3.11-py311h5eee18b_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/python3.11/site-packages/mkl_fft-1.3.11.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "lib/python3.11/site-packages/mkl_fft-1.3.11.dist-info/LICENSE.txt",
+        "path_type": "hardlink",
+        "sha256": "955777b8b56b2286fd9402d2b34c9b454d3f3c82efb2953f16551eceac200c17",
+        "sha256_in_prefix": "955777b8b56b2286fd9402d2b34c9b454d3f3c82efb2953f16551eceac200c17",
+        "size_in_bytes": 1505
+      },
+      {
+        "_path": "lib/python3.11/site-packages/mkl_fft-1.3.11.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "9ffbf6753ba78405de0d5a586f3ee4c559a02df4719d777fbdd8819580db2ad8",
+        "sha256_in_prefix": "9ffbf6753ba78405de0d5a586f3ee4c559a02df4719d777fbdd8819580db2ad8",
+        "size_in_bytes": 4393
+      },
+      {
+        "_path": "lib/python3.11/site-packages/mkl_fft-1.3.11.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "4525fa3bc9164437978d06f860ee4e83985ff3daac1921e7c549fb4792a6ab34",
+        "sha256_in_prefix": "4525fa3bc9164437978d06f860ee4e83985ff3daac1921e7c549fb4792a6ab34",
+        "size_in_bytes": 2604
+      },
+      {
+        "_path": "lib/python3.11/site-packages/mkl_fft-1.3.11.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "lib/python3.11/site-packages/mkl_fft-1.3.11.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "05bc041e7a65422dbb9365b3970155aa59d0706b53db53d85df798d57aa793c3",
+        "sha256_in_prefix": "05bc041e7a65422dbb9365b3970155aa59d0706b53db53d85df798d57aa793c3",
+        "size_in_bytes": 104
+      },
+      {
+        "_path": "lib/python3.11/site-packages/mkl_fft-1.3.11.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "6dae770bd33dbbafafc5e9699b5e0b35ec689cda2abc991e924fa55a4cfb00d9",
+        "sha256_in_prefix": "6dae770bd33dbbafafc5e9699b5e0b35ec689cda2abc991e924fa55a4cfb00d9",
+        "size_in_bytes": 71
+      },
+      {
+        "_path": "lib/python3.11/site-packages/mkl_fft-1.3.11.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "863ca3f49a618817e93f86cb6cc8ad1b87e4671a45b58dc8ca3fe70ded37c1db",
+        "sha256_in_prefix": "863ca3f49a618817e93f86cb6cc8ad1b87e4671a45b58dc8ca3fe70ded37c1db",
+        "size_in_bytes": 8
+      },
+      {
+        "_path": "lib/python3.11/site-packages/mkl_fft/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e4db5f27a16c6fd3eba8dea0589f7499fcfc5d5834607f7fa1a0045441e33fe3",
+        "sha256_in_prefix": "e4db5f27a16c6fd3eba8dea0589f7499fcfc5d5834607f7fa1a0045441e33fe3",
+        "size_in_bytes": 1943
+      },
+      {
+        "_path": "lib/python3.11/site-packages/mkl_fft/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "ff96b5f47acded1e2c163b1cb1b8ca25884fbc45eea232cb629e7dd7d35c4f26",
+        "sha256_in_prefix": "ff96b5f47acded1e2c163b1cb1b8ca25884fbc45eea232cb629e7dd7d35c4f26",
+        "size_in_bytes": 777
+      },
+      {
+        "_path": "lib/python3.11/site-packages/mkl_fft/__pycache__/_float_utils.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "3496be403895f33aa47920c0fa263159ec39d8590ef8e1c7ea43a9c15fbd2780",
+        "sha256_in_prefix": "3496be403895f33aa47920c0fa263159ec39d8590ef8e1c7ea43a9c15fbd2780",
+        "size_in_bytes": 3458
+      },
+      {
+        "_path": "lib/python3.11/site-packages/mkl_fft/__pycache__/_numpy_fft.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "a8dfa2764897b980c6bf558481ab57ee85563e9060c5d6b14b995c858f3dda47",
+        "sha256_in_prefix": "a8dfa2764897b980c6bf558481ab57ee85563e9060c5d6b14b995c858f3dda47",
+        "size_in_bytes": 56484
+      },
+      {
+        "_path": "lib/python3.11/site-packages/mkl_fft/__pycache__/_scipy_fft.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "62606b04f6b6346fbe1ea8e15744c9f1c35a81bfa4dec8a6a52478334a38e08a",
+        "sha256_in_prefix": "62606b04f6b6346fbe1ea8e15744c9f1c35a81bfa4dec8a6a52478334a38e08a",
+        "size_in_bytes": 2457
+      },
+      {
+        "_path": "lib/python3.11/site-packages/mkl_fft/__pycache__/_scipy_fft_backend.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "51766fd2b75fe23676e118b5a41f3a9061297a541f05b8b80be20df0b670ccaf",
+        "sha256_in_prefix": "51766fd2b75fe23676e118b5a41f3a9061297a541f05b8b80be20df0b670ccaf",
+        "size_in_bytes": 19849
+      },
+      {
+        "_path": "lib/python3.11/site-packages/mkl_fft/__pycache__/_version.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "f8fdf6a597a341b84af61b8c9ecbd10bd669d93a5c5a244399effc1952cd505b",
+        "sha256_in_prefix": "f8fdf6a597a341b84af61b8c9ecbd10bd669d93a5c5a244399effc1952cd505b",
+        "size_in_bytes": 178
+      },
+      {
+        "_path": "lib/python3.11/site-packages/mkl_fft/_float_utils.py",
+        "path_type": "hardlink",
+        "sha256": "3cd5f197c8c445dca0f1b38562990af837b8558f3b0fffc8901a3d48cea88e09",
+        "sha256_in_prefix": "3cd5f197c8c445dca0f1b38562990af837b8558f3b0fffc8901a3d48cea88e09",
+        "size_in_bytes": 3814
+      },
+      {
+        "_path": "lib/python3.11/site-packages/mkl_fft/_numpy_fft.py",
+        "path_type": "hardlink",
+        "sha256": "805e0b7938216bf8dbdf7d2f17024919a865b9bd4f77f972e577b4b0c30ae2ec",
+        "sha256_in_prefix": "805e0b7938216bf8dbdf7d2f17024919a865b9bd4f77f972e577b4b0c30ae2ec",
+        "size_in_bytes": 53833
+      },
+      {
+        "_path": "lib/python3.11/site-packages/mkl_fft/_pydfti.cpython-311-x86_64-linux-gnu.so",
+        "path_type": "hardlink",
+        "sha256": "4c335cf838f86f57c6351da3c8040373118ebf8b7695fc073c2323a25cc0b7f6",
+        "sha256_in_prefix": "4c335cf838f86f57c6351da3c8040373118ebf8b7695fc073c2323a25cc0b7f6",
+        "size_in_bytes": 461208
+      },
+      {
+        "_path": "lib/python3.11/site-packages/mkl_fft/_pydfti.pyx",
+        "path_type": "hardlink",
+        "sha256": "72eea66cfb287ba8949e34ecd1b6eb38490c8c88c96a84b4a62e7a983ef6ad95",
+        "sha256_in_prefix": "72eea66cfb287ba8949e34ecd1b6eb38490c8c88c96a84b4a62e7a983ef6ad95",
+        "size_in_bytes": 46587
+      },
+      {
+        "_path": "lib/python3.11/site-packages/mkl_fft/_scipy_fft.py",
+        "path_type": "hardlink",
+        "sha256": "ce0bb19dc3aeb5a5a18d20551f15485dd0451ea8f37664c3980716de73326de7",
+        "sha256_in_prefix": "ce0bb19dc3aeb5a5a18d20551f15485dd0451ea8f37664c3980716de73326de7",
+        "size_in_bytes": 3094
+      },
+      {
+        "_path": "lib/python3.11/site-packages/mkl_fft/_scipy_fft_backend.py",
+        "path_type": "hardlink",
+        "sha256": "a93dbbc8d98c7010df189d133ee6ca61df40f1aa2487b036087555e1e14d6e4b",
+        "sha256_in_prefix": "a93dbbc8d98c7010df189d133ee6ca61df40f1aa2487b036087555e1e14d6e4b",
+        "size_in_bytes": 13486
+      },
+      {
+        "_path": "lib/python3.11/site-packages/mkl_fft/_version.py",
+        "path_type": "hardlink",
+        "sha256": "497911859e2158ee96348ea165275f54c577c68c019d85d896dfcec589a1b7a2",
+        "sha256_in_prefix": "497911859e2158ee96348ea165275f54c577c68c019d85d896dfcec589a1b7a2",
+        "size_in_bytes": 23
+      },
+      {
+        "_path": "lib/python3.11/site-packages/mkl_fft/interfaces/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "936d51650f9a28bcdf2c2af7a6d3dba4391ebf8b28b95effdd8bc450faca7ae9",
+        "sha256_in_prefix": "936d51650f9a28bcdf2c2af7a6d3dba4391ebf8b28b95effdd8bc450faca7ae9",
+        "size_in_bytes": 1599
+      },
+      {
+        "_path": "lib/python3.11/site-packages/mkl_fft/interfaces/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "59ba85d20656a4dc9ee656623d07a8b427003da331515f8e2d073cab9ad7c628",
+        "sha256_in_prefix": "59ba85d20656a4dc9ee656623d07a8b427003da331515f8e2d073cab9ad7c628",
+        "size_in_bytes": 266
+      },
+      {
+        "_path": "lib/python3.11/site-packages/mkl_fft/interfaces/__pycache__/numpy_fft.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "17ef5e6ce31a0538bc13cbc118cc34fd1c188c255f0ee4024409732044993ca8",
+        "sha256_in_prefix": "17ef5e6ce31a0538bc13cbc118cc34fd1c188c255f0ee4024409732044993ca8",
+        "size_in_bytes": 206
+      },
+      {
+        "_path": "lib/python3.11/site-packages/mkl_fft/interfaces/__pycache__/scipy_fft.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "28c4b6956c5d00afa05d517947ffa75cf00932efd286f3c5a47f08870fcd8d02",
+        "sha256_in_prefix": "28c4b6956c5d00afa05d517947ffa75cf00932efd286f3c5a47f08870fcd8d02",
+        "size_in_bytes": 214
+      },
+      {
+        "_path": "lib/python3.11/site-packages/mkl_fft/interfaces/numpy_fft.py",
+        "path_type": "hardlink",
+        "sha256": "49f830eed066a80d8b48c35afe2abe793e101f4985196493e808a26d3b68029a",
+        "sha256_in_prefix": "49f830eed066a80d8b48c35afe2abe793e101f4985196493e808a26d3b68029a",
+        "size_in_bytes": 1600
+      },
+      {
+        "_path": "lib/python3.11/site-packages/mkl_fft/interfaces/scipy_fft.py",
+        "path_type": "hardlink",
+        "sha256": "6bbc589fba1df643ff2034348c77511d302a5271f5e1111ba36e992e1394bb96",
+        "sha256_in_prefix": "6bbc589fba1df643ff2034348c77511d302a5271f5e1111ba36e992e1394bb96",
+        "size_in_bytes": 1608
+      },
+      {
+        "_path": "lib/python3.11/site-packages/mkl_fft/src/mklfft.c",
+        "path_type": "hardlink",
+        "sha256": "f94ada75be0ac83b99087b16de163d382a31aaa04b10f44dc147e35163362e7b",
+        "sha256_in_prefix": "f94ada75be0ac83b99087b16de163d382a31aaa04b10f44dc147e35163362e7b",
+        "size_in_bytes": 160604
+      },
+      {
+        "_path": "lib/python3.11/site-packages/mkl_fft/tests/__pycache__/test_fft1d.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "24d740387a9841b8c1e75fbcab01afcf463e844189ce0a5e2131e98df0d2b235",
+        "sha256_in_prefix": "24d740387a9841b8c1e75fbcab01afcf463e844189ce0a5e2131e98df0d2b235",
+        "size_in_bytes": 27881
+      },
+      {
+        "_path": "lib/python3.11/site-packages/mkl_fft/tests/__pycache__/test_fftnd.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "668fa441b837b38bc47145047a0415a230b4fb092ca67e10ee915935db67f7fe",
+        "sha256_in_prefix": "668fa441b837b38bc47145047a0415a230b4fb092ca67e10ee915935db67f7fe",
+        "size_in_bytes": 17181
+      },
+      {
+        "_path": "lib/python3.11/site-packages/mkl_fft/tests/__pycache__/test_interfaces.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "90be8b4c6b9995b0d281e5cd4117cfcc1d21f4ac8ec60b62052fc323305d5d65",
+        "sha256_in_prefix": "90be8b4c6b9995b0d281e5cd4117cfcc1d21f4ac8ec60b62052fc323305d5d65",
+        "size_in_bytes": 11266
+      },
+      {
+        "_path": "lib/python3.11/site-packages/mkl_fft/tests/test_fft1d.py",
+        "path_type": "hardlink",
+        "sha256": "cb67cc19a9174da751b46391c4b41f759428ce98f3faf9bff8d546ae8e223547",
+        "sha256_in_prefix": "cb67cc19a9174da751b46391c4b41f759428ce98f3faf9bff8d546ae8e223547",
+        "size_in_bytes": 13233
+      },
+      {
+        "_path": "lib/python3.11/site-packages/mkl_fft/tests/test_fftnd.py",
+        "path_type": "hardlink",
+        "sha256": "8b92f51f2a9d02377c696d121540aa1d5d247d04d48f9b498bf8be253fe1957e",
+        "sha256_in_prefix": "8b92f51f2a9d02377c696d121540aa1d5d247d04d48f9b498bf8be253fe1957e",
+        "size_in_bytes": 9655
+      },
+      {
+        "_path": "lib/python3.11/site-packages/mkl_fft/tests/test_interfaces.py",
+        "path_type": "hardlink",
+        "sha256": "1e2fcb4f9495d07883f3d128eee9138de42a57a0d89e9b9905dc13668162e79f",
+        "sha256_in_prefix": "1e2fcb4f9495d07883f3d128eee9138de42a57a0d89e9b9905dc13668162e79f",
+        "size_in_bytes": 6399
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "21e0bd533a2bd2bda1182ef0ebc4cdf05eea79e7c190a710bad24b89a5438446",
+  "size": 211551,
+  "subdir": "linux-64",
+  "timestamp": 1730824176000,
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/mkl_fft-1.3.11-py311h5eee18b_0.conda",
+  "version": "1.3.11"
+}

@@ -1,0 +1,10 @@
+prefix=/home/mwaki/Documents/Vscode/data-science-learning-roadmap/Month_1/Week_2/env
+exec_prefix=/home/mwaki/Documents/Vscode/data-science-learning-roadmap/Month_1/Week_2/env
+libdir=/home/mwaki/Documents/Vscode/data-science-learning-roadmap/Month_1/Week_2/env/lib
+includedir=/home/mwaki/Documents/Vscode/data-science-learning-roadmap/Month_1/Week_2/env/include
+
+Name: Protocol Buffers
+Description: Google's Data Interchange Format
+Version: 29.3.0
+Libs: -L${libdir} -lupb -lpthread
+Cflags: -I${includedir}

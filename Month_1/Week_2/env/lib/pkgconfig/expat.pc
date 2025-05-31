@@ -1,0 +1,13 @@
+prefix=/home/mwaki/Documents/Vscode/data-science-learning-roadmap/Month_1/Week_2/env
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: expat
+Version: 2.7.1
+Description: expat XML parser
+URL: https://libexpat.github.io/
+Libs: -L${libdir} -lexpat
+Libs.private: -lm
+Cflags: -I${includedir}
+Cflags.private: -DXML_STATIC
