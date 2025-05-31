@@ -1,0 +1,15 @@
+{
+ "argv": [
+  "/home/mwaki/Documents/Vscode/data-science-learning-roadmap/Month_1/Week_2/env/bin/python",
+  "-Xfrozen_modules=off",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "Python 3 (ipykernel)",
+ "language": "python",
+ "metadata": {
+  "debugger": true
+ }
+}

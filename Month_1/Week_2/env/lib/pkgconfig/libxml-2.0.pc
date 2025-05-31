@@ -1,0 +1,13 @@
+prefix=/home/mwaki/Documents/Vscode/data-science-learning-roadmap/Month_1/Week_2/env
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+modules=1
+
+Name: libXML
+Version: 2.13.8
+Description: libXML library version2.
+Requires.private:  icu-i18n
+Libs: -L${libdir} -lxml2 
+Libs.private:  -L/home/mwaki/Documents/Vscode/data-science-learning-roadmap/Month_1/Week_2/env/lib -lz -L/home/mwaki/Documents/Vscode/data-science-learning-roadmap/Month_1/Week_2/env/lib -llzma  -L/home/mwaki/Documents/Vscode/data-science-learning-roadmap/Month_1/Week_2/env/lib  -lm   
+Cflags: -I${includedir}/libxml2 -I/home/mwaki/Documents/Vscode/data-science-learning-roadmap/Month_1/Week_2/env/include 

@@ -1,0 +1,11 @@
+prefix=/home/mwaki/Documents/Vscode/data-science-learning-roadmap/Month_1/Week_2/env
+exec_prefix=/home/mwaki/Documents/Vscode/data-science-learning-roadmap/Month_1/Week_2/env
+libdir=/home/mwaki/Documents/Vscode/data-science-learning-roadmap/Month_1/Week_2/env/lib
+includedir=/home/mwaki/Documents/Vscode/data-science-learning-roadmap/Month_1/Week_2/env/include
+
+Name: UTF8 Range
+Description: Google's UTF8 Library
+Version: 1.0
+Requires: absl_strings
+Libs: -L${libdir} -lutf8_validity -lutf8_range -lpthread
+Cflags: -I${includedir}

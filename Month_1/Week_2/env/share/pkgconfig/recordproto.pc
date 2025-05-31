@@ -1,0 +1,7 @@
+prefix=/home/mwaki/Documents/Vscode/data-science-learning-roadmap/Month_1/Week_2/env
+includedir=${prefix}/include
+ 
+Name: RecordProto
+Description: Record extension headers
+Version: 1.14.2
+Cflags: -I${includedir}

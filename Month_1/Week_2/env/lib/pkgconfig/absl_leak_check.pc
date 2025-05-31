@@ -1,0 +1,12 @@
+prefix=/home/mwaki/Documents/Vscode/data-science-learning-roadmap/Month_1/Week_2/env
+exec_prefix=${prefix}
+libdir=/home/mwaki/Documents/Vscode/data-science-learning-roadmap/Month_1/Week_2/env/lib
+includedir=/home/mwaki/Documents/Vscode/data-science-learning-roadmap/Month_1/Week_2/env/include
+
+Name: absl_leak_check
+Description: Abseil leak_check library
+URL: https://abseil.io/
+Version: 20250127
+Requires: absl_config = 20250127, absl_core_headers = 20250127
+Libs: -L${libdir}  -labsl_leak_check 
+Cflags: -I${includedir} -DNOMINMAX

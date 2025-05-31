@@ -1,0 +1,7 @@
+
+datadir=/home/mwaki/Documents/Vscode/data-science-learning-roadmap/Month_1/Week_2/env/share
+xkb_base=/home/mwaki/Documents/Vscode/data-science-learning-roadmap/Month_1/Week_2/env/share/X11/xkb
+
+Name: XKeyboardConfig
+Description: X Keyboard configuration data
+Version: 2.44
