@@ -12,12 +12,12 @@ This week focuses on essential Python libraries for data science: NumPy, Pandas,
 
 ## Projects
 
-### Project 1: Titanic Dataset Exploration
-- Download the [Titanic Dataset](https://www.kaggle.com/c/titanic/data)
-- Clean and preprocess the data
-- Perform exploratory data analysis
-- Visualize key relationships
-- Extract insights from the data
+### Project: Pandas Data Science Tasks
+- Working with the [Pandas Data Science Tasks](https://github.com/Trailblazer-dev/Pandas-Data-Science-Tasks) repository
+- This repository contains real-world data science tasks completed using pandas
+- Analyze sales data across different stores and products
+- Practice data cleaning, transformation, and analysis techniques
+- Extract actionable business insights
 
 ## Daily Breakdown
 
@@ -39,21 +39,21 @@ This week focuses on essential Python libraries for data science: NumPy, Pandas,
 - Data cleaning techniques
 - Feature engineering basics
 - String manipulation
-- Apply Titanic dataset cleaning
+- Apply dataset cleaning techniques from the project repository
 
 ### Day 4: Exploratory Data Analysis
 - Descriptive statistics
 - Data summarization
 - Group operations
 - Correlation analysis
-- EDA on Titanic dataset
+- Work through EDA examples in the project repository
 
 ### Day 5: Jupyter & Project Finalization
 - Jupyter notebook best practices
 - Markdown for documentation
 - Organizing analysis workflow
-- Complete Titanic analysis project
-- Prepare presentation of findings
+- Complete analyses from the project repository
+- Document key findings and insights
 
 ## Resources
 
@@ -72,8 +72,8 @@ This week focuses on essential Python libraries for data science: NumPy, Pandas,
 - [Jupyter Notebook Documentation](https://jupyter-notebook.readthedocs.io/en/stable/)
 - [Jupyter Notebook Tutorial](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
 
-### Project Datasets
-- [Titanic Dataset](https://www.kaggle.com/c/titanic/data)
+### Project Repositories
+- [Pandas Data Science Tasks](https://github.com/Trailblazer-dev/Pandas-Data-Science-Tasks)
 - [Alternative Datasets for Practice](https://www.kaggle.com/datasets)
 
 ## Sample Code
@@ -93,10 +93,10 @@ for N in range(1,4):
 
 - [ ] Complete NumPy exercises
 - [ ] Complete Pandas basics
-- [ ] Clean Titanic dataset
-- [ ] Perform EDA on Titanic dataset
-- [ ] Create final Jupyter notebook with analysis
-- [ ] Document findings and insights
+- [ ] Work through the Pandas Data Science Tasks repository
+- [ ] Document key insights from the sales data analysis
+- [ ] Create final Jupyter notebook summarizing learnings
+- [ ] Share results and methodologies used
 
 ## Next Steps
 After completing this week, you'll be ready to move on to data visualization in Week 3, where you'll learn to create compelling visualizations with Matplotlib and Seaborn.
