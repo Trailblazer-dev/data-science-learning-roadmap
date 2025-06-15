@@ -30,7 +30,7 @@ Currently at: **Month 1, Week 2** - Python for Data Science
 /
 ├── Month_1/
 │   ├── Week_1/
-│   ├── Week_2/ (Current)
+│   ├── Week_2/
 │   ├── Week_3/
 │   └── Week_4/
 ├── Month_2/
@@ -47,7 +47,7 @@ Currently at: **Month 1, Week 2** - Python for Data Science
 
 ## GitHub Project Management
 - Using GitHub Projects (Kanban-style) to track progress
-- Columns: `To Do` | `In Progress` | `Review` | `Done`
+- Columns: `To Do` | `Ready` | `In Progress` | `Done`
 - Issues created for each weekly milestone
 
 For detailed information on each month's curriculum, check the README in each month's directory.
