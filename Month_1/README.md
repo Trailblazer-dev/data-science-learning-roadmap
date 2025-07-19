@@ -88,6 +88,6 @@ This month focuses on building the fundamental skills required for data science,
 | Week | Status | Completed Projects | Notes |
 |------|--------|-------------------|-------|
 | Week 1 | Completed | Calculator, Text Game | [Link to projects](/Month_1/Week_1/) |
-| Week 2 | In Progress | Titanic Data Analysis | [Link to current work](/Month_1/Week_2/) |
+| Week 2 | Completed | Titanic Data Analysis | [Link to current work](/Month_1/Week_2/) |
 | Week 3 | Not Started | - | - |
-| Week 4 | Not Started | - | - |
+| Week 4 | Completed | - | - |
